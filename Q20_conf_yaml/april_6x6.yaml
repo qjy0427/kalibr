@@ -1,0 +1,6 @@
+#example for aprilgrid
+target_type: 'aprilgrid'  # Correctly use spaces for indentation
+tagCols: 6
+tagRows: 6
+tagSize: 0.088
+tagSpacing: 0.3
